@@ -1,0 +1,16 @@
+1. Image tuning (
+    a. Exposure adjustment
+    b. Saturation adjustment
+    c. Contrast adjustment
+)
+
+2. BG removal (
+    a. Automatic background removal
+    b. Manual background removal
+)
+
+3. Object detection (
+    a. Face detection
+    b. Object recognition
+    c. Edge detection
+)

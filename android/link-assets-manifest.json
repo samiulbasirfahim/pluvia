@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/F5.6-Regular.otf",
+      "sha1": "fc4d422a41bafe5dbea2c4e1eb5d21ec2069916f"
+    },
+    {
+      "path": "src/assets/fonts/Praise-Regular.ttf",
+      "sha1": "0b6ce3bd3d71b159691487dae28f86e8ab2585de"
+    }
+  ]
+}
